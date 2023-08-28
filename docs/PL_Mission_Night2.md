@@ -42,3 +42,6 @@ permalink: /setlists/2023/Denver/MissionBallroom/Night2
 <dl>
 <dt>Finally Moving Orchestrated flip</dt>
 </dl>
+
+
+<br><br>
