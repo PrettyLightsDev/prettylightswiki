@@ -6,10 +6,10 @@ permalink: /setlists/2023/Denver/MissionBallroom/Night2
 
 
 # PL Live! @ Mission Ballroom, Night 2 – (08.05.2023)<br>
-<pre>
+
 **Set 1** <br>
-Welcome to The Machine flip            | <a href="[url](https://www.twitch.tv/videos/1891321151?t=00h30m00s)">30:00</a>
-How We Do                              | [42:05](https://www.twitch.tv/videos/1891321151?t=00h42m05s)
+`Welcome to The Machine flip &nbsp;&nbsp;&nbsp;&nbsp;            |` [30:00](https://www.twitch.tv/videos/1891321151?t=00h30m00s)<br>
+`How We Do                              |` [42:05](https://www.twitch.tv/videos/1891321151?t=00h42m05s)<br>
 `Looking For Love                       |` [47:20](https://www.twitch.tv/videos/1891321151?t=00h47m20s)<br>
 `Starfall Tease (Menert)                |` [55:59](https://www.twitch.tv/videos/1891321151?t=00h55m59s)<br>
 `NEW (Wake Up)                          |` [01:01:37](https://www.twitch.tv/videos/1891321151?t=01h01m37s)<br>
@@ -32,4 +32,3 @@ How We Do                              | [42:05](https://www.twitch.tv/videos/18
 
 **Encore:**<br>
 `Finally Moving Orchestrated flip       |` [03:49:45](https://www.twitch.tv/videos/1891321151?t=03h49m45s)<br>
-</pre>
