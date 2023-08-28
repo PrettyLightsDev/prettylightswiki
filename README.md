@@ -6,4 +6,4 @@ Root folder for site is in `docs/`
 
 [This is the jekyll config](./docs/_config.yml).
 
-[This is an example of a setlist page](./docs/testevent.md).
+[This is an example of a setlist page](./docs/080523.md).
