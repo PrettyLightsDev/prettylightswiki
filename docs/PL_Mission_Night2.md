@@ -1,12 +1,11 @@
 ---
 layout: default
-title: "Mission Ballroom Night 2 Setlist"
+title: "PL Live! @ Mission Ballroom, Night 2 – (08.05.2023)"
 permalink: /setlists/2023/Denver/MissionBallroom/Night2
 ---
 
-# PL Live! @ Mission Ballroom, Night 2 – (08.05.2023)<br>
 
-### Set 1
+# Set 1
 <br>
 
 <dl>
@@ -24,7 +23,7 @@ permalink: /setlists/2023/Denver/MissionBallroom/Night2
 <br>
 <br>
 
-### Set 2
+# Set 2
 <br>
 
 <dl>
@@ -41,7 +40,7 @@ permalink: /setlists/2023/Denver/MissionBallroom/Night2
 <br>
 <br>
 
-### Encore:
+# Encore:
 <br>
 
 <dl>
