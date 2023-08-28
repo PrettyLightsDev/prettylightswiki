@@ -6,9 +6,9 @@ permalink: /setlists/2023/Denver/MissionBallroom/Night2
 
 # PL Live! @ Mission Ballroom, Night 2 – (08.05.2023)<br>
 
-**Set 1**<br>
-`Welcome to The Machine swirl      `<br>
-`How We Do                         `<br>
+# Set 1<br>
+Welcome to The Machine swirl      <br>
+How We Do                         <br>
 `Looking For Love                  `<br>
 `Starfall Tease (Menert)           `<br>
 `NEW (Wake Up)                     `<br>
