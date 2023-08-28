@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Testing a Mission event"
+title: "Testing_a_Mission_event"
 permalink: /setlists/2023/Denver/
 ---
 
