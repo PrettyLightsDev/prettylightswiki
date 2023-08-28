@@ -6,8 +6,6 @@ permalink: /setlists/2023/Denver/MissionBallroom/Night2
 
 
 # Set 1
-<br>
-
 <dl>
 <dt>Welcome to The Machine swirl</dt>
 <dt>How We Do</dt>
@@ -22,11 +20,9 @@ permalink: /setlists/2023/Denver/MissionBallroom/Night2
 <dt>I Know The Truth</dt>
 </dl>
 <br>
-<br>
+
 
 # Set 2
-<br>
-
 <dl>
 <dt>NEW (I Remember)</dt>
 <dt>Sound of Silence > swirl</dt>
@@ -40,11 +36,9 @@ permalink: /setlists/2023/Denver/MissionBallroom/Night2
 <dt>High School Art Class</dt>
 </dl>
 <br>
-<br>
+
 
 # Encore:
-<br>
-
 <dl>
 <dt>Finally Moving Orchestrated flip</dt>
 </dl>
