@@ -20,6 +20,7 @@ permalink: /setlists/2023/Denver/MissionBallroom/Night2
 <dt>Yellow Bird w/ NAS</dt>
 <dt>You Get High > house swirl</dt>
 <dt>I Know The Truth</dt>
+</dl>
 <br>
 <br>
 
@@ -37,6 +38,7 @@ permalink: /setlists/2023/Denver/MissionBallroom/Night2
 <dt>Summer Love > swirl</dt>
 <dt>PL vs Radiohead vs Nirvana vs NIN</dt>
 <dt>High School Art Class</dt>
+</dl>
 <br>
 <br>
 
@@ -45,3 +47,4 @@ permalink: /setlists/2023/Denver/MissionBallroom/Night2
 
 <dl>
 <dt>Finally Moving Orchestrated flip</dt>
+</dl>
